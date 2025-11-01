@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Apurva Billuri
 
-![Apurva Billuri - AI Automation Engineer (Agents & RPA)](https://img.shields.io/badge/AI%20Automation%20Engineer-(Agents%20%26%20RPA)-3a86ff?style=for-the-badge&logo=github)
+![Apurva Billuri - Agentic Automation Engineer](https://img.shields.io/badge/Agentic%20Automation%20Engineer-(AI%20Agents%20%26%20RPA)-3a86ff?style=for-the-badge&logo=github)
 
-🎯 **Agentic AI Automation Engineer** | RPA & AI/ML Enthusiast  
-📍 San Diego, CA | M.S. Engineering Management, Syracuse University
+**💡 Innovating at the intersection of AI, RPA, and Intelligent Automation**
+
+![Location](https://img.shields.io/badge/San%20Diego%2C%20CA-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Syracuse](https://img.shields.io/badge/MS%20Engineering%20Management-Syracuse%20University-orange?style=for-the-badge)
+![Purdue](https://img.shields.io/badge/PGP%20in%20AI%20%26%20ML-Purdue%20University-black?style=for-the-badge&logo=graduation-cap&logoColor=gold)
 
 ---
 
@@ -13,75 +16,92 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 
 ## 🚀 Portfolio Projects
 
+> *Note: Some projects are prototypes or learning exercises. Source code and documentation are available for review.*
+
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/RadianceRedefined/IPVOD-FileName-Retrieval">
-        <img src="https://img.shields.io/badge/IPVOD%20File%20Name%20Retrieval-RPA%20%7C%20Python%20%7C%20Excel-00b894?style=flat-square" alt="IPVOD File Name Retrieval"/><br>
-        <b>IPVOD File Name Retrieval</b>
+      <a href="https://github.com/RadianceRedefined/smart-doc-ai">
+        <img src="https://img.shields.io/badge/Smart%20Doc%20AI-LangChain%20%7C%20Streamlit%20%7C%20Azure%20OpenAI-00b894?style=flat-square" alt="Smart Doc AI"/><br>
+        <b>Smart Doc AI</b>
       </a>
       <br>
-      <sub>Automated pipeline to retrieve and validate file names from complex data sources.</sub>
+      <sub>AI assistant that retrieves and summarizes internal SOPs to improve document accessibility.</sub>
       <ul>
-        <li>Python, RPA, Excel VBA</li>
-        <li>Reduced manual lookup time by 90%</li>
-        <li>Ensured 100% accuracy in file retrieval</li>
+        <li>Built with LangChain, Streamlit, and Azure OpenAI</li>
+        <li>Reduced support load by 30% (Prototype)</li>
+        <li>Enhanced internal knowledge access</li>
       </ul>
     </td>
-    <td align="center">
-      <a href="https://github.com/RadianceRedefined/VenueNoteProcess">
-        <img src="https://img.shields.io/badge/Venue%20Note%20Process-Web%20Scraping%20%7C%20AI-f9ca24?style=flat-square" alt="Venue Note Process"/><br>
-        <b>Venue Note Process Automation</b>
-      </a>
-      <br>
-      <sub>AI-powered web scraper to monitor and process venue notes.</sub>
-      <ul>
-        <li>Python, BeautifulSoup, RPA</li>
-        <li>90% reduction in research turnaround time</li>
-        <li>Improved data reliability and consistency</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RadianceRedefined/InvoiceProcessing">
-        <img src="https://img.shields.io/badge/Invoice%20Processing-Document%20AI%20%7C%20RPA-6c5ce7?style=flat-square" alt="Invoice Processing"/><br>
-        <b>End-to-End Invoice Extraction & Data Processing</b>
-      </a>
-      <br>
-      <sub>Full RPA pipeline for extracting and validating invoice data.</sub>
-      <ul>
-        <li>LangChain, Azure OpenAI, PyMuPDF, Pandas</li>
-        <li>99% extraction accuracy & 40% faster processing</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RadianceRedefined/SmartDocAIAssistant">
-        <img src="https://img.shields.io/badge/Smart%20Doc%20AI%20Assistant-LangChain%20%7C%20Streamlit%20%7C%20Azure%20OpenAI-00b894?style=flat-square" alt="Smart Doc AI Assistant"/><br>
-        <b>Smart Doc AI Assistant</b>
-      </a>
-      <br>
-      <sub>AI agent to retrieve and summarize internal SOPs.</sub>
-      <ul>
-        <li>Reduced support load by 30%</li>
-        <li>Improved SOP accessibility</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/SaaSHealthCareAIAgent">
         <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20Agent-Next.js%20%7C%20FastAPI%20%7C%20GPT5-00cec9?style=flat-square" alt="SaaS HealthCare AI Agent"/><br>
         <b>SaaS HealthCare AI Agent</b>
       </a>
       <br>
-      <sub>Scalable SaaS for patient scheduling and claims validation.</sub>
+      <sub>Scalable AI SaaS platform automating patient scheduling and claims validation.</sub>
       <ul>
-        <li>Real-time streaming, markdown UI</li>
-        <li>Secure CI/CD deployment</li>
+        <li>Next.js frontend + FastAPI backend + GPT-5 integration</li>
+        <li>Implements real-time streaming and markdown rendering</li>
+        <li>Demo: Deployed on Vercel with CI/CD automation</li>
       </ul>
     </td>
-    <td></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RadianceRedefined/SaaS-HealthCareAI">
+        <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20(Full%20Stack)-Next.js%20%7C%20FastAPI%20%7C%20TypeScript-00bcd4?style=flat-square" alt="SaaS HealthCare AI"/><br>
+        <b>SaaS HealthCare AI (Full Stack)</b>
+      </a>
+      <br>
+      <sub>Full-stack AI SaaS integrating GPT models to manage healthcare operations.</sub>
+      <ul>
+        <li>Uses Server-Sent Events (SSE) for real-time data flow</li>
+        <li>Responsive UI and secure environment configuration</li>
+        <li>Built for scalable AI deployment</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RadianceRedefined/customer-order-analysis">
+        <img src="https://img.shields.io/badge/Customer%20Order%20Analysis-Python%20%7C%20Pandas%20%7C%20EDA-f9ca24?style=flat-square" alt="Customer Order Analysis"/><br>
+        <b>Customer Order Analysis</b>
+      </a>
+      <br>
+      <sub>Data-driven analysis of customer purchasing behavior and trends.</sub>
+      <ul>
+        <li>Performed EDA using Python, Pandas, and Matplotlib</li>
+        <li>Identified seasonal buying patterns and high-value customers (Sample Data)</li>
+        <li>Supports data-driven marketing decisions</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RadianceRedefined/pomodoro-focus-zone">
+        <img src="https://img.shields.io/badge/Pomodoro%20Focus%20Zone-JavaScript%20%7C%20Frontend%20App-6c5ce7?style=flat-square" alt="Pomodoro Focus Zone"/><br>
+        <b>Pomodoro Focus Zone</b>
+      </a>
+      <br>
+      <sub>Interactive productivity app to manage focused work sessions using the Pomodoro technique.</sub>
+      <ul>
+        <li>Developed in JavaScript with responsive UI</li>
+        <li>Tracks sessions, breaks, and total focus time</li>
+        <li>Encourages productivity through time-blocking</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RadianceRedefined/adventure-game1">
+        <img src="https://img.shields.io/badge/Adventure%20Game-Python%20%7C%20CLI%20Project-6c5ce7?style=flat-square" alt="Adventure Game"/><br>
+        <b>Adventure Game</b>
+      </a>
+      <br>
+      <sub>Interactive text-based adventure game demonstrating logic, branching, and modular design.</sub>
+      <ul>
+        <li>Built entirely in Python</li>
+        <li>Showcases control flow and user input handling</li>
+        <li>Demonstrates clean, modular programming</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -89,29 +109,93 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 
 ---
 
-## 💼 Professional Experience
+## 🧠 Skills & Tech Stack
 
-- **AI Automation Engineer | HuLoop Automation | Mar 2024 – Present**  
-  Agentic automation workflows, validation pipelines, QA improvement, enablement workshops
+<div align="center">
 
-- **RPA Analyst | Dish Network | May 2023 – Aug 2023**  
-  PDD/SDD documentation, COE savings, UAT collaboration
-
-- **Lean Six Sigma Consultant | Upstate NY Hospital | Aug 2022 – Jan 2023**  
-  OR scheduling optimization, performance dashboards, Epic EMR automation
-
-- **Engineer (RPA & Digital Transformation) | Thales Group | May 2022 – Aug 2022**  
-  Aerospace automation, Power BI, FMEA & risk assessment
-
-- **Software Engineer | Visual IT Solutions | Jun 2021 – Jan 2022**  
-  Jira API automation, HR/health tracking scripts
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 📚 Education
+### 🤖 AI, ML & Automation
+![LangChain](https://img.shields.io/badge/LangChain-5E4AE3?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-F36C3D?style=for-the-badge&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-- **Purdue University** – Postgraduate AI/ML Program (In Progress)
-- **Syracuse University** – M.S. Engineering Management | GPA: 3.70 | Dec 2023
+---
+
+### ☁️ Data, Cloud & DevOps
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 🔬 Current Focus
+
+<div align="center">
+
+### 🎯 What I'm Working On & Learning
+
+<img src="https://img.shields.io/badge/Focus-Agentic%20Automation%20%26%20RPA-3a86ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/Learning-LangGraph%20%26%20Workflow%20Orchestration-9b5de5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Building-FastAPI%20%7C%20Next.js%20%7C%20LangChain-00bbf9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Improving-AI%20Decision%20Automation-f9ca24?style=for-the-badge">
+<img src="https://img.shields.io/badge/Exploring-MLOps%20%7C%20Cloud%20AI%20Pipelines-00b894?style=for-the-badge">
+
+</div>
+
+
+> 🎯 *My long-term goal: create adaptive AI agents that autonomously optimize enterprise processes.*
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+### 🥇 Professional & Academic Excellence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaizen%20Gold%20Badge-F8C102?style=for-the-badge&logo=medal&logoColor=white">
+  <img src="https://img.shields.io/badge/Certified%20Lean%20Six%20Sigma%20Green%20Belt-007500?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Lean%20Learner%20Certification-00A8E8?style=for-the-badge&logo=leanpub&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Outstanding%20Student%20Award-9b5de5?style=for-the-badge&logo=google-scholar&logoColor=white">
+  <img src="https://img.shields.io/badge/Customer%20Care%20Award-F15BB5?style=for-the-badge&logo=handshake&logoColor=white">
+  <img src="https://img.shields.io/badge/Best%20Intern%20Award-00BBF9?style=for-the-badge&logo=target&logoColor=white">
+</p>
+
+---
+
+### 👩‍💻 Grace Hopper Celebration (AnitaB.org)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GHC'%2023%20Scholar-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/GHC'%2025%20Reviewer-3A86FF?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+🌍 *Active member of the AnitaB.org global community promoting women in technology, mentorship, and inclusive innovation.*
+
+</div>
 
 ---
 
@@ -124,7 +208,7 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 ---
 
 ⭐ **Fun Fact:**  
-I’m passionate about taking automation beyond rules—building AI agents that think, adapt, and intelligently optimize workflows.
+I’m passionate about taking automation beyond rules-building AI agents that think, adapt, and intelligently optimize workflows.
 
 <!--
 ## 📈 GitHub Stats (Optional - place at the bottom if you want!)
