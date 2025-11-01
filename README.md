@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Apurva Billuri
 
 ![Apurva Billuri - Agentic Automation Engineer](https://img.shields.io/badge/Agentic%20Automation%20Engineer-(AI%20Agents%20%26%20RPA)-3a86ff?style=for-the-badge&logo=github)
@@ -10,24 +12,25 @@
 
 ---
 
-Welcome to my GitHub! I’m passionate about building intelligent, agentic automation solutions that blend AI, RPA, and cloud technologies to transform enterprise workflows. My focus: creating adaptive, AI-driven systems that minimize manual effort, boost accuracy, and scale efficiently across enterprise environments.
+Welcome to my GitHub! I’m passionate about building intelligent, agentic automation solutions that blend **AI, RPA, and cloud technologies** to transform enterprise workflows.  
+My focus: creating adaptive, AI-driven systems that minimize manual effort, boost accuracy, and scale efficiently across enterprise environments.
 
 ---
 
 ## 🚀 Portfolio Projects
 
-> *Note: Some projects are prototypes or learning exercises. Source code and documentation are available for review.*
+> *Some projects are prototypes or learning exercises. Source code and documentation are available for review.*
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/smart-doc-ai">
-        <img src="https://img.shields.io/badge/Smart%20Doc%20AI-LangChain%20%7C%20Streamlit%20%7C%20Azure%20OpenAI-00b894?style=flat-square" alt="Smart Doc AI"/><br>
+        <img src="https://img.shields.io/badge/Smart%20Doc%20AI-LangChain%20%7C%20Streamlit%20%7C%20Azure%20OpenAI-00b894?style=flat-square"/><br>
         <b>Smart Doc AI</b>
       </a>
       <br>
       <sub>AI assistant that retrieves and summarizes internal SOPs to improve document accessibility.</sub>
-      <ul>
+      <ul align="left">
         <li>Built with LangChain, Streamlit, and Azure OpenAI</li>
         <li>Reduced support load by 30% (Prototype)</li>
         <li>Enhanced internal knowledge access</li>
@@ -35,27 +38,27 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
     </td>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/SaaSHealthCareAIAgent">
-        <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20Agent-Next.js%20%7C%20FastAPI%20%7C%20GPT5-00cec9?style=flat-square" alt="SaaS HealthCare AI Agent"/><br>
+        <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20Agent-Next.js%20%7C%20FastAPI%20%7C%20GPT5-00cec9?style=flat-square"/><br>
         <b>SaaS HealthCare AI Agent</b>
       </a>
       <br>
       <sub>Scalable AI SaaS platform automating patient scheduling and claims validation.</sub>
-      <ul>
+      <ul align="left">
         <li>Next.js frontend + FastAPI backend + GPT-5 integration</li>
         <li>Implements real-time streaming and markdown rendering</li>
-        <li>Demo: Deployed on Vercel with CI/CD automation</li>
+        <li>Deployed on Vercel with CI/CD automation</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/SaaS-HealthCareAI">
-        <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20(Full%20Stack)-Next.js%20%7C%20FastAPI%20%7C%20TypeScript-00bcd4?style=flat-square" alt="SaaS HealthCare AI"/><br>
+        <img src="https://img.shields.io/badge/SaaS%20HealthCare%20AI%20(Full%20Stack)-Next.js%20%7C%20FastAPI%20%7C%20TypeScript-00bcd4?style=flat-square"/><br>
         <b>SaaS HealthCare AI (Full Stack)</b>
       </a>
       <br>
       <sub>Full-stack AI SaaS integrating GPT models to manage healthcare operations.</sub>
-      <ul>
+      <ul align="left">
         <li>Uses Server-Sent Events (SSE) for real-time data flow</li>
         <li>Responsive UI and secure environment configuration</li>
         <li>Built for scalable AI deployment</li>
@@ -63,14 +66,14 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
     </td>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/customer-order-analysis">
-        <img src="https://img.shields.io/badge/Customer%20Order%20Analysis-Python%20%7C%20Pandas%20%7C%20EDA-f9ca24?style=flat-square" alt="Customer Order Analysis"/><br>
+        <img src="https://img.shields.io/badge/Customer%20Order%20Analysis-Python%20%7C%20Pandas%20%7C%20EDA-f9ca24?style=flat-square"/><br>
         <b>Customer Order Analysis</b>
       </a>
       <br>
       <sub>Data-driven analysis of customer purchasing behavior and trends.</sub>
-      <ul>
+      <ul align="left">
         <li>Performed EDA using Python, Pandas, and Matplotlib</li>
-        <li>Identified seasonal buying patterns and high-value customers (Sample Data)</li>
+        <li>Identified seasonal buying patterns and high-value customers</li>
         <li>Supports data-driven marketing decisions</li>
       </ul>
     </td>
@@ -78,12 +81,12 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
   <tr>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/pomodoro-focus-zone">
-        <img src="https://img.shields.io/badge/Pomodoro%20Focus%20Zone-JavaScript%20%7C%20Frontend%20App-6c5ce7?style=flat-square" alt="Pomodoro Focus Zone"/><br>
+        <img src="https://img.shields.io/badge/Pomodoro%20Focus%20Zone-JavaScript%20%7C%20Frontend%20App-6c5ce7?style=flat-square"/><br>
         <b>Pomodoro Focus Zone</b>
       </a>
       <br>
       <sub>Interactive productivity app to manage focused work sessions using the Pomodoro technique.</sub>
-      <ul>
+      <ul align="left">
         <li>Developed in JavaScript with responsive UI</li>
         <li>Tracks sessions, breaks, and total focus time</li>
         <li>Encourages productivity through time-blocking</li>
@@ -91,12 +94,12 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
     </td>
     <td align="center">
       <a href="https://github.com/RadianceRedefined/adventure-game1">
-        <img src="https://img.shields.io/badge/Adventure%20Game-Python%20%7C%20CLI%20Project-6c5ce7?style=flat-square" alt="Adventure Game"/><br>
+        <img src="https://img.shields.io/badge/Adventure%20Game-Python%20%7C%20CLI%20Project-6c5ce7?style=flat-square"/><br>
         <b>Adventure Game</b>
       </a>
       <br>
       <sub>Interactive text-based adventure game demonstrating logic, branching, and modular design.</sub>
-      <ul>
+      <ul align="left">
         <li>Built entirely in Python</li>
         <li>Showcases control flow and user input handling</li>
         <li>Demonstrates clean, modular programming</li>
@@ -105,13 +108,11 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
   </tr>
 </table>
 
-> 🏆 *More projects in repositories – check them out!*
+> 🏆 *More projects available in my repositories!*
 
 ---
 
 ## 🧠 Skills & Tech Stack
-
-<div align="center">
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -143,13 +144,9 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
-
 ---
 
 ## 🔬 Current Focus
-
-<div align="center">
 
 ### 🎯 What I'm Working On & Learning
 
@@ -159,16 +156,11 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 <img src="https://img.shields.io/badge/Improving-AI%20Decision%20Automation-f9ca24?style=for-the-badge">
 <img src="https://img.shields.io/badge/Exploring-MLOps%20%7C%20Cloud%20AI%20Pipelines-00b894?style=for-the-badge">
 
-</div>
-
-
 > 🎯 *My long-term goal: create adaptive AI agents that autonomously optimize enterprise processes.*
 
 ---
 
 ## 🏅 Achievements & Certifications
-
-<div align="center">
 
 ### 🥇 Professional & Academic Excellence
 
@@ -195,8 +187,6 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 
 🌍 *Active member of the AnitaB.org global community promoting women in technology, mentorship, and inclusive innovation.*
 
-</div>
-
 ---
 
 ## 📫 Let’s Connect!
@@ -208,12 +198,6 @@ Welcome to my GitHub! I’m passionate about building intelligent, agentic autom
 ---
 
 ⭐ **Fun Fact:**  
-I’m passionate about taking automation beyond rules-building AI agents that think, adapt, and intelligently optimize workflows.
+I’m passionate about taking automation beyond rules - building AI agents that think, adapt, and intelligently optimize workflows.
 
-<!--
-## 📈 GitHub Stats (Optional - place at the bottom if you want!)
-
-![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadianceRedefined&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=RadianceRedefined&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadianceRedefined&layout=compact&theme=radical)
--->
+</div>
